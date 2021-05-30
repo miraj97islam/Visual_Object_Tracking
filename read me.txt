@@ -1,0 +1,11 @@
+
+1. To run the tracker execute 'run_tracker' without parameters to choose a video and test the KCF on it.
+
+
+
+
+
+
+
+
+
